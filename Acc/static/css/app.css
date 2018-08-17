@@ -1,0 +1,43 @@
+/********************************Full body CSS****************************************/
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+.myHeader{
+    background-image: url("../images/slogan.jpg");
+    position: relative;
+    opacity: 1.9;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.header_contents{
+    margin: 25%;
+}
+.theHeader{
+    background-image: url("../images/background.jpg");
+    position: relative;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.signupplace{
+   background-image: url("../images/auditorium.jpg");
+    position: relative;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.logg{
+    margin: 10%;
+}
+.loggg{
+    margin: 14%;
+}
